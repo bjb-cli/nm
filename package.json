@@ -1,0 +1,27 @@
+{
+  "name": "@bjb-cli/nm",
+  "version": "1.0.0",
+  "description": "A template for creating node modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard --fix"
+  },
+  "standard": {
+    "ignore": [
+      "template"
+    ]
+  },
+  "repository": "bjb-cli/nm",
+  "keywords": [
+    "module",
+    "node",
+    "bjb-cli",
+    "bjb",
+    "nm"
+  ],
+  "author": "bjb-cli",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
