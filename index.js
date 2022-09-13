@@ -58,7 +58,7 @@ module.exports = {
       name: 'github',
       type: 'text',
       message: 'GitHub username or organization',
-      initial: 'bjb'
+      initial: 'bjb-cli'
     },
     {
       name: 'features',
