@@ -31,7 +31,7 @@ Or use local BJB:
 
 ```shell
 # Clone the `bjb`
-$ git clone https://github.com/xiaodai123/bjb.git
+$ git clone https://github.com/bjb-cli/bjb.git
 
 # enter generated directory
 $ cd bjb
